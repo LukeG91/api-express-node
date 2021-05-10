@@ -82,11 +82,14 @@ This will display the web projects stored in the webProjects.json file.
 ```
 In order to perform CRUD operations please see the guide below:
 
+
+
 GET method:
 
 Browse to http://localhost:8080/api
 
 This will display the JSON data in Postman.
+
 
 
 POST method:
@@ -95,11 +98,15 @@ Browse to http://localhost:8080/api/add
 Then click on 'Body', select 'raw' from the dropdown and 'JSON' from the following dropdown.
 Add a JSON object by specifying the title, description an URL.  The ID will be assigned automatically.
 
+
+
 DELETE method:
 
 Browse to http://localhost:8080/api/delete/ and then add the id of the element you would like to delete, example:
 
 http://localhost:8080/api/delete/1335983146167
+
+
 
 PUT method:
 
