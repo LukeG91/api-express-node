@@ -32,7 +32,7 @@ cd "your-projects-folder"
 #### Step 2
 
 ```
-Download the compressed project file from Dropbox.  Unzip the file once downloaded.
+git clone https://github.com/LukeG91/api-express-node.git
 ```
 
 #### Step 3
