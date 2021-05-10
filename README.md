@@ -138,6 +138,6 @@ Add a JSON object by specifying the title, description an URL.  The ID will be s
 
 ![put request](Screenshots/PUT-request.png)
 
-#### Delete request
+#### DELETE request
 
 ![delete request](Screenshots/DELETE-request.png)
