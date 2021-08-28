@@ -6,7 +6,7 @@
 
 ### Project Description:
 
-This projects requires me to build an API using express that will be able to perform CRUD operations. I have tested this API using the Postman API testing software.
+This project requires me to build an API using express that will be able to perform CRUD operations. I have tested this API using the Postman API testing software.
 
 <a name="contents"></a>
 
